@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialTabs">
+        <attr name="mt_items" format="integer" />
+        <attr name="mt_bg_normal" format="color" />
+        <attr name="mt_bg_selected" format="color" />
+    </declare-styleable>
+</resources>
